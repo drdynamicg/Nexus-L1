@@ -13,9 +13,6 @@ You earn NEX Points by contributing compute and interacting with the Nexus ecosy
 1- **Windows users**:
 * Install **WSL (Windows Subsystem for Linux)** using this [guide](https://github.com/0xmoei/Install-Linux-on-Windows), and follow the following linux instructions in the ubuntu terminal of your Windows WSL
 
-1- **VPS users**:
-* You can buy cheap VPS servers with good performance from [Hostbrr](https://my.hostbrr.com/order/forms/a/NTMxNw==)
-* You can follow this detailed [beginner guide](https://github.com/0xmoei/Linux_Node_Guide/tree/main) for setting up a VPS server
 
 ---
 
@@ -40,13 +37,6 @@ https://app.nexus.xyz/
 - You can run prover nodes on multiple browser tabs, desktops, laptops, mobile phones.
 - Link and manage all your devices from a single Nexus account.
 - More computations = More NEX points
-
----
-
-## --> One-click-deployment 
-1- Register in [Mintair](https://mintair.xyz/onboarding?ref=EF5V-UYBN)
-
-2- Buy a ready-to-go Nexus node
 
 ---
 

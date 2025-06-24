@@ -11,7 +11,7 @@ You earn NEX Points by contributing compute and interacting with the Nexus ecosy
 ---
 ## --> Environments
 1- **Windows users**:
-* Install **WSL (Windows Subsystem for Linux)** using this [guide](https://github.com/0xmoei/Install-Linux-on-Windows), and follow the following linux instructions in the ubuntu terminal of your Windows WSL
+* Install **WSL (Windows Subsystem for Linux)** using this [guide](https://github.com/drdynamicg/Install-Linux-on-Windows/blob/main/README.md), and follow the following linux instructions in the ubuntu terminal of your Windows WSL
 
 
 ---
